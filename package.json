@@ -1,0 +1,15 @@
+{
+  "name": "coc-singleplayertool",
+  "version": "0.0.0",
+  "description": "一个包含建人物卡、掷骰判定等实用功能的跨平台离线桌面工具",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cadros",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^33.2.0"
+  }
+}
